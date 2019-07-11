@@ -48,4 +48,3 @@ webhooks, but will ignore messages sent by bots.
 ---
 
 This project is licensed under the MIT license.
-Original credit goes to OverMighty
